@@ -1,0 +1,7 @@
+git init
+git config --global user.email "example@g.educaand.es"
+git config --global user.name "Nombre y apellidos"
+git remote add origin https://github.com/palegreramos/python00.git
+git add .
+git commit -m "primer commit"
+git push -u origin main
